@@ -1,16 +1,12 @@
-# MOOC Java Programming Solutions
+# ☕ MOOC Java Programming Solutions
 
 Clean solutions. Strong fundamentals.
 
----
-
 ## 💡 Overview
 
-Solutions to the **University of Helsinki Java Programming MOOC**, focused on building core problem-solving skills through consistent practice.
+Solutions to the **University of Helsinki Java Programming MOOC**, focused on building strong problem-solving skills through consistent practice.
 
----
-
-## 📚 Part 1 Focus
+## 📚 Part 1
 
 * Setup & environment (NetBeans, TMC)
 * Input / Output
@@ -18,36 +14,26 @@ Solutions to the **University of Helsinki Java Programming MOOC**, focused on bu
 * Basic calculations
 * Conditional logic
 
----
-
 ## 🧠 Approach
 
 * Logic first, code second
-* Simple and readable solutions
+* Simple, readable solutions
 * Step-by-step problem breakdown
-
----
 
 ## 📂 Structure
 
-Organized by course parts:
-
 * Part 1 – Completed
 * More parts coming soon
-
----
 
 ## ⚠️ Note
 
 Try solving problems yourself before checking solutions.
 
----
-
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square\&logo=openjdk\&logoColor=white)
-
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+</p>
 
 ## 📈 Goal
 
