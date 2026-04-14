@@ -17,17 +17,13 @@ Solutions to the **University of Helsinki Java Programming MOOC**, focused on bu
 * Part 1 – Completed
 * More parts coming soon
 
-### 📚 Part 1
+#### 📚 Part 1
 
 * Setup & environment (NetBeans, TMC)
 * Input / Output
 * Variables & data types
 * Basic calculations
 * Conditional logic
-
-## ⚠️ Note
-
-Try solving problems yourself before checking solutions.
 
 ## 🛠️ Tech Stack
 
@@ -39,3 +35,7 @@ Try solving problems yourself before checking solutions.
 ## 📈 Goal
 
 From beginner → strong fundamentals → confident problem solver.
+
+## ⚠️ Note
+
+Try solving problems yourself before checking solutions.
