@@ -6,14 +6,6 @@ Clean solutions. Strong fundamentals.
 
 Solutions to the **University of Helsinki Java Programming MOOC**, focused on building strong problem-solving skills through consistent practice.
 
-## 📚 Part 1
-
-* Setup & environment (NetBeans, TMC)
-* Input / Output
-* Variables & data types
-* Basic calculations
-* Conditional logic
-
 ## 🧠 Approach
 
 * Logic first, code second
@@ -25,6 +17,14 @@ Solutions to the **University of Helsinki Java Programming MOOC**, focused on bu
 * Part 1 – Completed
 * More parts coming soon
 
+### 📚 Part 1
+
+* Setup & environment (NetBeans, TMC)
+* Input / Output
+* Variables & data types
+* Basic calculations
+* Conditional logic
+
 ## ⚠️ Note
 
 Try solving problems yourself before checking solutions.
@@ -32,7 +32,8 @@ Try solving problems yourself before checking solutions.
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
+  <b>Java</b>
 </p>
 
 ## 📈 Goal
